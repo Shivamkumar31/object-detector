@@ -1,0 +1,77 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# ML/Data
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.pt
+models/
+temp_uploads/
+uploads/
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Streamlit
+.streamlit/
+
+# Docker
+.dockerignore
+
+# Environment variables
+.env
+.env.local
+
+# OS
+*.log
+.cache/
+*.tmp
+
+# Project specific
+temp/
+debug/
+outputs/
+results/
