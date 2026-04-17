@@ -1,17 +1,8 @@
-# ML libraries
-ultralytics
-torch
-torchvision
-
-# App framework
-streamlit
-fastapi
-uvicorn
-
-# Image processing
-opencv-python-headless
-Pillow
-
-# Data handling
-numpy
-pandas
+ultralytics==8.0.196
+torch==2.1.2
+torchvision==0.16.2
+streamlit==1.32.2
+opencv-python-headless==4.8.1.78
+Pillow==10.2.0
+numpy==1.24.4
+pandas==2.0.3
